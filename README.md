@@ -24,18 +24,19 @@ Machine Learning.
 
 &nbsp;&nbsp;&nbsp;<em>IEEE Transactions on Image Processing (TIP),</em> 2018.
 
-+ Asymmetric Deep Supervised Hashing. [<a href="paper/AAAI18_ADSH.pdf" target=_blank>pdf</a>][<a href="https://github.com/jiangqy/ADSH-AAAI2018" target="_blank">github</a>]
++ Asymmetric Deep Supervised Hashing. [[pdf]](paper/AAAI18_ADSH.pdf)[[github]](https://github.com/jiangqy/ADSH-AAAI2018)
 
 &nbsp;&nbsp;&nbsp;<strong>Qing-Yuan Jiang</strong> and Wu-Jun Li.
 
 &nbsp;&nbsp;&nbsp;<em>Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI),</em> 2018.
 
-+ Deep Cross-Modal Hashing. [<a href="paper/CVPR17_DCMH.pdf" target=_blank>pdf</a>][<a href="https://github.com/jiangqy/DCMH-CVPR2017" target="_blank">github</a>]
++ Deep Cross-Modal Hashing. [[pdf]](paper/CVPR17_DCMH.pdf)[[github]](https://github.com/jiangqy/DCMH-CVPR2017)
 
 &nbsp;&nbsp;&nbsp;<strong>Qing-Yuan Jiang</strong> and Wu-Jun Li.
+
 &nbsp;&nbsp;&nbsp;<em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR),</em> 2017.
 
-+ Scalable Graph Hashing with Feature Transformation. [<a href="paper/IJCAI15_SGH.pdf" target=_blank>pdf</a>][<a href="https://github.com/jiangqy/SGH-IJCAI2015" target="_blank">github</a>]
++ Scalable Graph Hashing with Feature Transformation. [[pdf]](paper/IJCAI15_SGH.pdf)[[github]](https://github.com/jiangqy/SGH-IJCAI2015)
 
 &nbsp;&nbsp;&nbsp;<strong>Qing-Yuan Jiang</strong> and Wu-Jun Li.
 
