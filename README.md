@@ -2,7 +2,9 @@
 
 
 
-### About me
+### About Me
+
+---
 
 Currently I am a third year Ph.D. candidate of Department of Computer Science and Technology in Nanjing University and a member of LAMDA Group, lead by Professor Zhi-Hua Zhou. I received my B.Sc. degree in Computer Science and Technology in June 2014 from Nanjing University. Since September 2014, I was admitted to study for a M.Sc. degree in Nanjing University.
 
