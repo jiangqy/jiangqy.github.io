@@ -1,8 +1,8 @@
 ---
 title: About JiangQY.
 feature_text: |
-  ## JiangQY:
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Jiang Qing-Yuan
+  为天地立心，为生民立命，为往圣继绝学，为万世开太平。
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
