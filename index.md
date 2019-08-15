@@ -1,10 +1,10 @@
 ---
-title: About Jiang Qing-Yuan.
+title: About Me
 feature_text: |
   ## Jiang Qing-Yuan
   为天地立心，为生民立命，为往圣继绝学，为万世开太平。
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Currently I am a third year Ph.D. candidate of Department of Computer Science and Technology in Nanjing University and a member of LAMDA Group, lead by Professor Zhi-Hua Zhou. I received my B.Sc. degree in Computer Science and Technology in June 2014 from Nanjing University. Since September 2014, I was admitted to study for a M.Sc. degree in Nanjing University."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
