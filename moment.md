@@ -6,7 +6,7 @@ excerpt: ""
 aside: true
 ---
 
-# Publications
+# Heading 1
 ---
 * SVD: A Large-Scale Short Video Dataset for Near-Duplicate Video Retrieval. [[paper](papers/ICCV19_SVD.pdf)][[project](https://svdbase.github.io)]
 
