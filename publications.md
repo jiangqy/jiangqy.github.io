@@ -27,7 +27,9 @@ aside: true
   <font size="3.75"><strong>Qing-Yuan Jiang</strong> and Wu-Jun Li. <em>AAAI</em>, 2018.</font>
 
 * Deep Cross-Modal Hashing. [[paper](papers/CVPR17_DCMH.pdf)][[github](https://github.com/jiangqy/DCMH-CVPR2017)]
- <font size="3.75"><strong>Qing-Yuan Jiang</strong> and Wu-Jun Li. <em>CVPR</em>, 2017.</font>
+
+  <font size="3.75"><strong>Qing-Yuan Jiang</strong> and Wu-Jun Li. <em>CVPR</em>, 2017.</font>
+
 * Scalable Graph Hashing with Feature Transformation. [[paper](papers/IJCAI15_SGH.pdf)][[github](https://github.com/jiangqy/SGH-IJCAI2015)]
 
    <font size="3.75"><strong>Qing-Yuan Jiang</strong> and Wu-Jun Li. <em>IJCAI</em>, 2015.</font>
