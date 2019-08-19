@@ -8,31 +8,31 @@ aside: true
 ---
 * SVD: A Large-Scale Short Video Dataset for Near-Duplicate Video Retrieval. [[paper](papers/ICCV19_SVD.pdf)][[project](https://svdbase.github.io)]
 
-  <font size="3"> <strong>Qing-Yuan Jiang</strong>, Yi He, Gen Li, Jian Lin, Lei Li and Wu-Jun Li. <em>ICCV</em>, 2019.</font>
+  <font size="3.75"> <strong>Qing-Yuan Jiang</strong>, Yi He, Gen Li, Jian Lin, Lei Li and Wu-Jun Li. <em>ICCV</em>, 2019.</font>
 
 * Deep Hashing for Speaker Identification and Retrieval. [[paper](papers/INTERSPEECH19_DAMH.pdf)]
 
-  <font size="3"> Lei Fan, <strong>Qing-Yuan Jiang</strong>, Ya-Qi Yu and Wu-Jun Li. *INTERSPEECH*, 2019.</font>
+  <font size="3.75"> Lei Fan, <strong>Qing-Yuan Jiang</strong>, Ya-Qi Yu and Wu-Jun Li. <em>INTERSPEECH</em>, 2019.</font>
   
 * Discrete Latent Factor Model for Cross-Modal Hashing. [[paper](papers/TIP19_DLFH.pdf)][[github](https://github.com/jiangqy/DLFH-TIP2019)]
 
-  <font size="4">Qing-Yuan Jiang and Wu-Jun Li. *TIP*, 2019.</font>
+  <font size="3.75">Qing-Yuan Jiang and Wu-Jun Li. <em>TIP</em>, 2019.</font>
   
 * Deep Discrete Supervised Hashing. [[paper](papers/TIP18_DDSH.pdf)][[github](https://github.com/jiangqy/DDSH-TIP2018)]
 
-  <font size="3.5">Qing-Yuan Jiang**, Xue Cui and Wu-Jun Li. *TIP*, 2018.</font>
+  <font size="3.75"><strong>Qing-Yuan Jiang</strong>, Xue Cui and Wu-Jun Li. <em>TIP</em>, 2018.</font>
 
 * Asymmetric Deep Supervised Hashing. [[paper](papers/AAAI18_ADSH.pdf)][[github](https://github.com/jiangqy/ADSH-AAAI2018)]
 
-  **Qing-Yuan Jiang** and Wu-Jun Li. *AAAI*, 2018.
+  <font size="3.75"><strong>Qing-Yuan Jiang</strong> and Wu-Jun Li. <em>AAAI</em>, 2018.</font>
 
 * Deep Cross-Modal Hashing. [[paper](papers/CVPR17_DCMH.pdf)][[github](https://github.com/jiangqy/DCMH-CVPR2017)]
 
-  **Qing-Yuan Jiang** and Wu-Jun Li. *CVPR*, 2017.
+ <font size="3.75"><strong>Qing-Yuan Jiang</strong> and Wu-Jun Li. <em>CVPR</em>, 2017.</font>
 
 * Scalable Graph Hashing with Feature Transformation. [[paper](papers/IJCAI15_SGH.pdf)][[github](https://github.com/jiangqy/SGH-IJCAI2015)]
 
-  **Qing-Yuan Jiang** and Wu-Jun Li. *IJCAI*, 2015.
+   <font size="3.75"><strong>Qing-Yuan Jiang</strong> and Wu-Jun Li. <em>IJCAI</em>, 2015.</font>
 
   
   
