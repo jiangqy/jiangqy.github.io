@@ -5,6 +5,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: ""
 aside: true
 ---
+---
 * SVD: A Large-Scale Short Video Dataset for Near-Duplicate Video Retrieval. [[paper](papers/ICCV19_SVD.pdf)][[project](https://svdbase.github.io)]
 
   <sub> **Qing-Yuan Jiang**, Yi He, Gen Li, Jian Lin, Lei Li and Wu-Jun Li. *ICCV*, 2019.</sub>
