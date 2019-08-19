@@ -8,12 +8,36 @@ aside: true
 
 # Heading 1
 ---
-* SVD: A Large-Scale Short Video Dataset for Near-Duplicate Video Retrieval.
+* SVD: A Large-Scale Short Video Dataset for Near-Duplicate Video Retrieval. [[paper](papers/ICCV19_SVD.pdf)][[project](https://svdbase.github.io)]
 
-   Qing-Yuan Jiang, Yi He, Gen Li, Jian Lin, Lei Li and Wu-Jun Li. ICCV, 2019.
+   **Qing-Yuan Jiang**, Yi He, Gen Li, Jian Lin, Lei Li and Wu-Jun Li. *ICCV*, 2019.
 
-* 
+* Deep Hashing for Speaker Identification and Retrieval. [[paper](papers/INTERSPEECH19_DAMH.pdf)]
 
+  Lei Fan, **Qing-Yuan Jiang**, Ya-Qi Yu and Wu-Jun Li. *INTERSPEECH*, 2019.
+  
+* Discrete Latent Factor Model for Cross-Modal Hashing. [[paper](papers/TIP19_DLFH.pdf)][[github](https://github.com/jiangqy/DLFH-TIP2019)]
+
+  **Qing-Yuan Jiang** and Wu-Jun Li. *TIP*, 2019.
+  
+* Deep Discrete Supervised Hashing. [[paper](papers/TIP18_DDSH.pdf)][[github](https://github.com/jiangqy/DDSH-TIP2018)]
+
+  **Qing-Yuan Jiang**, Xue Cui and Wu-Jun Li. *TIP*, 2018.
+
+* Asymmetric Deep Supervised Hashing. [[paper](papers/AAAI18_ADSH.pdf)][[github](https://github.com/jiangqy/ADSH-AAAI2018)]
+
+  **Qing-Yuan Jiang** and Wu-Jun Li. *AAAI*, 2018.
+
+* Deep Cross-Modal Hashing. [[paper](papers/CVPR17_DCMH.pdf)][[github](https://github.com/jiangqy/DCMH-CVPR2017)]
+
+  **Qing-Yuan Jiang** and Wu-Jun Li. *CVPR*, 2017.
+
+* Scalable Graph Hashing with Feature Transformation. [[paper](papers/IJCAI15_SGH.pdf)][[github](https://github.com/jiangqy/SGH-IJCAI2015)]
+
+  **Qing-Yuan Jiang** and Wu-Jun Li. *IJCAI*, 2015.
+
+  
+  
 <!--## Heading 2
 
 ### Heading 3
