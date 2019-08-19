@@ -1,15 +1,20 @@
 ---
 title: Publications
 feature_text: |
-  A demo of Markdown and HTML includes
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: ""
 aside: true
 ---
 
 # Heading 1
+---
+* SVD: A Large-Scale Short Video Dataset for Near-Duplicate Video Retrieval.
 
-## Heading 2
+   Qing-Yuan Jiang, Yi He, Gen Li, Jian Lin, Lei Li and Wu-Jun Li. ICCV, 2019.
+
+* 
+
+<!--## Heading 2
 
 ### Heading 3
 
@@ -142,3 +147,4 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
 ```
+-->
