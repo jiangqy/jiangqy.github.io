@@ -8,19 +8,19 @@ aside: true
 ---
 * SVD: A Large-Scale Short Video Dataset for Near-Duplicate Video Retrieval. [[paper](papers/ICCV19_SVD.pdf)][[project](https://svdbase.github.io)]
 
-  <font color="green" size="2"> **Qing-Yuan Jiang**, Yi He, Gen Li, Jian Lin, Lei Li and Wu-Jun Li. *ICCV*, 2019.</font>
+  <font size="3"> <strong>Qing-Yuan Jiang</strong>, Yi He, Gen Li, Jian Lin, Lei Li and Wu-Jun Li. <em>ICCV</em>, 2019.</font>
 
 * Deep Hashing for Speaker Identification and Retrieval. [[paper](papers/INTERSPEECH19_DAMH.pdf)]
 
-  Lei Fan, **Qing-Yuan Jiang**, Ya-Qi Yu and Wu-Jun Li. *INTERSPEECH*, 2019.
+  <font size="3"> Lei Fan, <strong>Qing-Yuan Jiang</strong>, Ya-Qi Yu and Wu-Jun Li. *INTERSPEECH*, 2019.</font>
   
 * Discrete Latent Factor Model for Cross-Modal Hashing. [[paper](papers/TIP19_DLFH.pdf)][[github](https://github.com/jiangqy/DLFH-TIP2019)]
 
-  **Qing-Yuan Jiang** and Wu-Jun Li. *TIP*, 2019.
+  <font size="4">Qing-Yuan Jiang and Wu-Jun Li. *TIP*, 2019.</font>
   
 * Deep Discrete Supervised Hashing. [[paper](papers/TIP18_DDSH.pdf)][[github](https://github.com/jiangqy/DDSH-TIP2018)]
 
-  **Qing-Yuan Jiang**, Xue Cui and Wu-Jun Li. *TIP*, 2018.
+  <font size="3.5">Qing-Yuan Jiang**, Xue Cui and Wu-Jun Li. *TIP*, 2018.</font>
 
 * Asymmetric Deep Supervised Hashing. [[paper](papers/AAAI18_ADSH.pdf)][[github](https://github.com/jiangqy/ADSH-AAAI2018)]
 
