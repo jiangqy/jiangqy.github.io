@@ -7,7 +7,7 @@ aside: true
 ---
 * SVD: A Large-Scale Short Video Dataset for Near-Duplicate Video Retrieval. [[paper](papers/ICCV19_SVD.pdf)][[project](https://svdbase.github.io)]
 
-  <font size=2.75> **Qing-Yuan Jiang**, Yi He, Gen Li, Jian Lin, Lei Li and Wu-Jun Li. *ICCV*, 2019.</font>
+  <sub> **Qing-Yuan Jiang**, Yi He, Gen Li, Jian Lin, Lei Li and Wu-Jun Li. *ICCV*, 2019.</sub>
 
 * Deep Hashing for Speaker Identification and Retrieval. [[paper](papers/INTERSPEECH19_DAMH.pdf)]
 
