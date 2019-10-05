@@ -114,8 +114,8 @@ navigation_header:
   url: /publications/
 - title: Blog
   url: /blog/
-- title: Moment
-  url: /moment/
+# - title: Moment
+#   url: /moment/
 # - title: Elements
 #   url: /elements/
 # - title: Categories
