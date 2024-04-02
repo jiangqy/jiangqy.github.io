@@ -8,7 +8,7 @@ permalink: /about/
 ## About 
 
 
-{% for member in site.data.pi %}
+<!-- {% for member in site.data.pi %}
 
 <div class="row">
   <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo-large }}" class="img-responsive avatar-about" />
@@ -105,4 +105,4 @@ permalink: /about/
 </div>
 {% endif %}
 
-
+ -->

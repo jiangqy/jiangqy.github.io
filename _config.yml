@@ -32,13 +32,13 @@ nav_pages:
 # Do you want to group your publications by year? {true/false}
 group_pub_by_year: true
 
-collections:
-  courses:
-    output: true
-  publications:
-    output: true
-  workshops:
-    output: true
+# collections:
+#   courses:
+#     output: true
+#   publications:
+#     output: true
+#   workshops:
+#     output: true
 
 include:
   - .htaccess
