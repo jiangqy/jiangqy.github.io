@@ -4,17 +4,17 @@ email: qyjiang24@gmail.com
 description: Personal webpage of Dr. Qing-Yuan Jiang
 baseurl: ""
 url: ""
-affiliation: I am part of the <a href="https://www.tue.nl/en/research/research-groups/future-everyday/" target="_blank">Future Everyday</a> group at TU Eindhoven.
+affiliation: I am ... <a href="https://www.google.com" target="_blank">...</a> ....
 
-# Google analytics ID
-google_analytics: G-7BE63RZMTW
+# # Google analytics ID
+# google_analytics: G-7BE63RZMTW
 
-# Location info. (shown in footer)
-location: >
-  Department of Industrial Design<br/>
-  P.O. Box 513<br/>
-  5600 MB Eindhoven<br/>
-  Netherlands<br/>
+# # Location info. (shown in footer)
+# location: >
+#   Department of Industrial Design<br/>
+#   P.O. Box 513<br/>
+#   5600 MB Eindhoven<br/>
+#   Netherlands<br/>
 
 # Contact info. (shown in footer)
 contact: >
