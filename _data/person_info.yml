@@ -1,0 +1,15 @@
+- name: Dr. Qing-Yuan Jiang
+  zh_name: 蒋庆远
+  photo-small: jiangqy.jpg
+  info: Algorithm Engineer at Huawei
+  email: qyjiang24@gmail.com
+  github: https://github.com/jiangqy
+  scholar: https://scholar.google.com.hk/citations?user=MHYWbKEAAAAJ&hl=en
+  cv: https://github.com/jiangqy/jiangqy.github.io/blob/master/files/resume/JiangQY.pdf?raw=true
+  number_educ: 3
+  education1: (2020~now) Huawei, Algorithm Engineer
+  education2: (2014~2020) Ph.D, LAMDA, Nanjing University
+  education3: (2010~2014) B.Sc., Nanjing University
+  education1short: (2020~now) Huawei
+  education2short: (2014~2020) Ph.D, LAMDA, NJU
+  education3short: (2010~2014) B.Sc., NJU
