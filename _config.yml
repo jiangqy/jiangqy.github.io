@@ -9,6 +9,9 @@ affiliation: I am an Algorithm Engineer at Huawei
 # # Google analytics ID
 # google_analytics: G-7BE63RZMTW
 
+load_paths:
+  - _sass
+
 # Location info. (shown in footer)
 location: >
   Dongshan Avenue, Jiangning District</br>
