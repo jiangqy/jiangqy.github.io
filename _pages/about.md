@@ -13,7 +13,7 @@ I was born in <a href="https://en.wikipedia.org/wiki/Tengchong" _target="_blank"
 
 I received my B.Sc. degree from the <a href="https://cs.nju.edu.cn/" _target="_blank">Department of Computer Science and Technology</a>, <a href="https://www.nju.edu.cn/" _target="_blank">Nanjing University</a> in 2014.
 
-I received my PhD degree from the <a href="https://www.lamda.nju.edu.cn/CH.MainPage.ashx" target="_blan">LAMDA group</a>, <a href="https://cs.nju.edu.cn/" target="_blank">Department of Computer Science and Technology</a>, <a href="https://www.nju.edu.cn/" target="_blank">Nanjing University</a> in 2020, under the supervision of Professor <a href="https://cs.nju.edu.cn/lwj" target="_blank">Wu-Jun Li</a>.
+I received my PhD degree from the <a href="https://www.lamda.nju.edu.cn/CH.MainPage.ashx" target="_blan">LAMDA group</a>, <a href="https://cs.nju.edu.cn/" target="_blank">Department of Computer Science and Technology</a>, <a href="https://www.nju.edu.cn/" target="_blank">Nanjing University</a> in 2020, under the supervision of Professor <a href="https://cs.nju.edu.cn/lwj" target="_blank">Wu-Jun Li</a>. PhD thesis: Discrete Hashing Learning~[<a href="https://jiangqy.github.io/publications/assert/PHD_thesis.pdf" target="_blank">pdf</a>].
 
 I am currently an algorithm engineer at HuaWei.
 
