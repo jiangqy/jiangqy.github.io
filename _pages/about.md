@@ -5,9 +5,9 @@ sitemap: false
 permalink: /about/
 ---
 
-## About 
+# About 
 
-### Short biography
+## Short biography
 
 I was born in <a href="https://en.wikipedia.org/wiki/Tengchong" _target="_blank">Tengchong (腾冲市)</a>, a beautiful city in southwest China. After graduating from The First Middle School of Tengchong in 2010, I spent ten years studying in Nanjing, China.
 
@@ -17,14 +17,14 @@ I received my PhD degree from the <a href="https://www.lamda.nju.edu.cn/CH.MainP
 
 I am currently an algorithm engineer at HuaWei.
 
-### Internship Experience
+## Internship Experience
 <div class="rowl1" style="padding-top: 10px;">
 
 1. <strong>ByteDance AI Lab (November, 2018~April,2019).</strong>
 </div>
 
 {% if site.data.awards %}
-### Awards
+## Awards
 <div class="rowl1" style="padding-top: 10px;">
 
 {% for award in site.data.awards %}
@@ -34,7 +34,7 @@ I am currently an algorithm engineer at HuaWei.
 {% endif %}
 
 {% if site.data.friends %}
-### Friends
+## Friends
 <div class="rowl1" style="padding-top: 10px;">
 
 {% for friend in site.data.friends %}
