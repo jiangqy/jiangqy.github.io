@@ -15,7 +15,7 @@ permalink: /publications/
 {% endfor %}
 
 ## Conference/Journal Papers
-{% for publi in site.publications %}
+{% for publi in site.publications reversed %}
 
   {% if publi.arxiv == true %}{% else %}
 
