@@ -54,6 +54,7 @@ permalink: /publications/
     {% if publi.ndvr == true %} <a class="btn-ndvr" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.pdf}}2">Near-Duplicated Video Retrieval</a> {% endif %}
     {% if publi.fine_grained_retrieval == true %} <a class="btn-fgr" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.pdf}}2">Fine-Grained Image Retrieval</a> {% endif %}
     {% if publi.cross_modal_retrieval == true %} <a class="btn-cmr" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.pdf}}2">Cross-Modal Retrieval</a> {% endif %}
+    {% if publi.multimodal == true %} <a class="btn-mml" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.pdf}}2">Multimodal Learning</a> {% endif %}
     <!-- {% if pdfpresent == true %}<a href="{{ pdffile }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %} -->
     <!-- {% if publi.arxiv %}<a href="https://arxiv.org/abs/{{ publi.arxiv }}" target="_blank"><button class="btn-arxiv">ARXIV</button></a> {% endif %} -->
     <!-- {% if publi.github %}<a href="{{ publi.github }}" target="_blank"><button class="btn-code">github</button></a> {% endif %} -->

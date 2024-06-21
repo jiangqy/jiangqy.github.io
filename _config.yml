@@ -4,7 +4,7 @@ email: qyjiang24@gmail.com
 description: Personal webpage of Dr. Qing-Yuan Jiang
 # baseurl: ""
 # url: ""
-affiliation: I am an Algorithm Engineer at Huawei
+affiliation: I am an Associate Professor at NJUST.
 
 # # Google analytics ID
 # google_analytics: G-7BE63RZMTW
@@ -22,7 +22,7 @@ contact: >
 nav_pages:
   - name: about
   - name: publications
-  # - name: research
+  # - name: project
 
 # Do you want to group your publications by year? {true/false}
 # group_pub_by_year: true
