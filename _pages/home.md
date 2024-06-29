@@ -19,7 +19,7 @@ In 2010, I was addmitted to <a href="https://www.nju.edu.cn/" _target="_blank">N
 
 After graduated from Nanjing University, I was an algorithm researcher at <a href="https://www.huawei.com/cn/" _target="_blank">HuaWei</a> from 2020 to 2024, as a member of Huawei's <a href="https://career.huawei.com/reccampportal/portal5/topminds.html" _target="_blank">top minds project</a>. At Huawei, my work focused on multimodal search (Petal Search) and multimodal large language models (<a href="https://www.huaweicloud.com/product/pangu.html" target="_blank">Pangu MLLM</a>).
 
-In 2024, I joined <a href="https://cs.njust.edu.cn/" target="_blank">the School of Compute Science and Engineering</a>, <a href="https://www.njust.edu.cn/" target="_blank">Nanjing University of Science and Technology</a>, as an associate professor. I am a member of <a href="http://www.njustkmg.cn/" target="_blank">the Knowledge Mining Group (KMG)</a>, which is affiliated with the PCA Lab. Our team focuses on machine learning, data mining, and big data. Weclome to join us!
+In 2024, I joined <a href="https://cs.njust.edu.cn/" target="_blank">the School of Compute Science and Engineering</a>, <a href="https://www.njust.edu.cn/" target="_blank">Nanjing University of Science and Technology</a>, as an associate professor. My research interests are machine learning, data mining, and big data.
 
 After work, I prefer to play basketball. In 2015, I won third place in the Spot Shooting Competition of NJUCS Fun Sports Day. I am also interesting in history. 
 

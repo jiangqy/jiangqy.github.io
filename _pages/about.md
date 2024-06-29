@@ -15,7 +15,8 @@ I received my B.Sc. degree from the <a href="https://cs.nju.edu.cn/" _target="_b
 
 I was an algorithm researcher at HuaWei from 2020 to 2024, as a member of Huawei's top minds project. At Huawei, my work focused on multimodal search (Petal Search) and multimodal large language models (<a href="https://www.huaweicloud.com/product/pangu.html" target="_blank">Pangu MLLM</a>).
 
-I am currently an Associate Professor at <a href="https://cs.njust.edu.cn/" target="_blank">the School of Compute Science and Engineering</a>, <a href="https://www.njust.edu.cn/" target="_blank">Nanjing University of Science and Technology</a>. I am a member of <a href="http://www.njustkmg.cn/" target="_blank">the Knowledge Mining Group</a> which is affiliated with the PCA Lab.
+I am currently an Associate Professor at <a href="https://cs.njust.edu.cn/" target="_blank">the School of Compute Science and Engineering</a>, <a href="https://www.njust.edu.cn/" target="_blank">Nanjing University of Science and Technology</a>. 
+<!-- I am a member of <a href="http://www.njustkmg.cn/" target="_blank">the Knowledge Mining Group</a> which is affiliated with the PCA Lab. -->
 
 ## Internship Experience
 <div class="rowl1" style="padding-top: 10px;">
@@ -23,7 +24,7 @@ I am currently an Associate Professor at <a href="https://cs.njust.edu.cn/" targ
 1. <strong>ByteDance AI Lab (November, 2018~April,2019).</strong>
 </div>
 
-## Work Experience
+## Work Experience   
 <div class="rowl1" style="padding-top: 10px;">
 
 1. <strong>Huawei. September, 2020~June,2024.</strong>
