@@ -11,7 +11,7 @@ affiliation: I am an Associate Professor at NJUST.
 
 # Location info. (shown in footer)
 location: >
-  Nanjing 210023, China
+  Room 4069, Dingxin Building, Nanjing University of Science and Technology.
 
 # Contact info. (shown in footer)
 contact: >
@@ -20,6 +20,7 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
+  # - name: student
   - name: publications
   # - name: project
 
