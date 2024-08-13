@@ -20,7 +20,7 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
-  # - name: student
+  - name: student
   - name: publications
   # - name: project
 
