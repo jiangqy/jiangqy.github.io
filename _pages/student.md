@@ -5,14 +5,15 @@ sitemap: false
 permalink: /student/
 ---
 
-# Student
+## Welcome to Join Us
+<div class="rowl1" style="padding-top: 10px;">
 
-<div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/person/jiangqy.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
-
-#### Reading Notes
-  
-  Learning to Hashing
-  <ul style="overflow: hidden">
-  </ul>
+Welcome to join us! Please refer to <a href="http://www.njustkmg.cn/" _target="_blank">Recruitment Introduction</a> for more details.
 </div>
+
+## Current Student
+<div class="rowl1" style="padding-top: 10px;">
+
+Please refer to <a href="http://www.njustkmg.cn/" _target="_blank">members</a> of our team.
+</div>
+
