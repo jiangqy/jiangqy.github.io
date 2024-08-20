@@ -470,3 +470,80 @@ legend style={at={(0.05,0.66)},anchor=south west},font=\footnotesize]
 <object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig7-latex.pdf#view=FitH" width="100%" height="500" type="application/pdf"></object>
 
 * [back to latex](#latex)
+
+## 2. Python <a name="python"></a>
+
+* In python, we use matplotlib for plotting.
+
+* Links: Figure [[1](#figa)]
+
+
+### 2.1. The 1st Example<a name="figa"></a>
+
+* Basic Settings: 
+
+```python
+import os
+import matplotlib as mpl
+import numpy as np
+import matplotlib.pyplot as plt
+
+plt.rcParams["font.family"] = "serif"
+plt.rcParams["font.serif"] = ["Times New Roman"]
+plt.rcParams['text.usetex'] = True  # used for latex format in xlabel/ylabel/title.
+
+basepath = os.path.abspath(os.path.dirname(__file__))
+
+
+def plot_fig1(savepath):
+    xmin, xmax, ymin, ymax = 0, 8, 0, 8
+    fig = plt.figure(figsize=(10, 8))
+
+    x = [1,5]
+    y1 = [1,5]
+    y2 = [2,5]
+    y3 = [3,5]
+    y4 = [4,5]
+    y5 = [5,5]
+    y6 = [6,5]
+    y7 = [7,5]
+
+    ax = fig.add_subplot(111)
+    plt.plot(x, y1, 'o', color='r', linestyle='-', label='Line1', markersize=16)
+    plt.plot(x, y2, '*', color='b', linestyle='-', label='Line2', markersize=16)
+    plt.plot(x, y3, 's', color='g', linestyle='-', label='Line3', markersize=16)
+    plt.plot(x, y4, 'p', color='y', linestyle='-', label='Line4', markersize=16)
+    plt.plot(x, y5, 'd', color='pink', linestyle='-', label='Line5', markersize=16)
+    plt.plot(x, y6, '^', color='orange', linestyle='-', label='Line6', markersize=16)
+    plt.plot(x, y7, 'v', color='cyan', linestyle='-', label='Line7', markersize=16)
+    plt.legend(loc='upper right', prop={'size': 40})
+
+    xlabel = [0,1,2,3,4,5,6]
+    ylabel = [0,1,2,3,4,5,6]
+    xticks = ['0','1','2','3','4','5','6']
+    yticks = ['a','b','c','d','e','f','g']
+    ax.set_xticks(xlabel)
+    ax.set_xticklabels(xticks, fontsize=32)
+    ax.set_yticks(ylabel)
+    ax.set_yticklabels(yticks, fontsize=32)
+    plt.title('Example', fontsize=32)
+    plt.xlabel(r"$\alpha$-label", fontsize=32)
+    plt.ylabel(r"$\beta$-label", fontsize=32)
+    plt.xlim([xmin, xmax])
+    plt.ylim([ymin, ymax])
+    plt.grid()
+    plt.tight_layout()
+
+    plt.savefig(savepath)
+
+
+if __name__ == "__main__":
+    print(basepath)
+    savepath = os.path.join(basepath, 'fig1.png')
+    plot_fig1(savepath)
+```
+
+* Illustration:
+<img src="{{ site.url }}{{ site.baseurl }}/notes/tools/fig1.png" width=600 class="img-responsive"/>
+
+* [back to python](#python)
