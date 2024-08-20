@@ -11,6 +11,8 @@ authors: Qing-Yuan Jiang
 
 * Author: Qing-Yuan Jiang
 
+This article provides examples of using [Latex](#latex) and [Python](#python) to create illustrations for academic research papers.
+
 ## 1. Latex <a name="latex"></a>
 
 * Links: Figure [[1](#fig1)], [[2](#fig2)], [[3](#fig3)], [[4](#fig4)], [[5](#fig5)], [[6](#fig6)], [[7](#fig7)]
