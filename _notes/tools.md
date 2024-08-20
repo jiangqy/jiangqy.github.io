@@ -5,6 +5,7 @@ link: tools
 image: tools.jpg
 title: "Tools for Creating Illustrations in Academic Papers"
 authors: Qing-Yuan Jiang
+type: tool
 ---
 
 # Tools for Creating Illustrations in Academic Papers

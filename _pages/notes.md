@@ -9,6 +9,7 @@ permalink: /notes/
 
 ## Tools for Research
 {% for note in site.notes %}
+{% if note.type=="tool"%}
   <div class="well-sm publication-entry">
   <ul class="flex-container">
   <li class="flex-item1">
@@ -22,6 +23,7 @@ permalink: /notes/
   </li>
   </ul>
   </div>
+{% endif %}
 {% endfor %}
 
 
