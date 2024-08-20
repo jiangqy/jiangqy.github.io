@@ -5,8 +5,23 @@ sitemap: false
 permalink: /notes/
 ---
 
-## Reading Notes
-<div class="rowl1" style="padding-top: 10px;">
-Some Reading Notes.
-</div>
+# Notes
+
+## Tools for Research
+{% for note in site.notes %}
+  <div class="well-sm publication-entry">
+  <ul class="flex-container">
+  <li class="flex-item1">
+    {% if note.image %}
+     <img src="{{ site.url }}{{ site.baseurl }}/notes/{{ note.image }}" class="img-responsive"/>
+    {% endif %}
+  </li>
+  <li class="flex-item2">
+    <a href="{{ note.link }}" target="_blank"><strong>{{ note.title }}</strong></a><br/>
+    {{ note.authors }}<br/>
+  </li>
+  </ul>
+  </div>
+{% endfor %}
+
 
