@@ -18,8 +18,9 @@ permalink: /notes/
     {% endif %}
   </li>
   <li class="flex-item2">
-    <a href="{{ note.link }}" target="_blank"><strong>{{ note.title }}</strong></a><br/>
-    {{ note.authors }}<br/>
+    <a href="{{ note.link }}" target="_blank"><strong>{{ note.title }}</strong></a>
+    <br/>{{ note.authors }}
+    <br/>Update Date: {{ site.time | date: '%B %d, %Y' }}
   </li>
   </ul>
   </div>
