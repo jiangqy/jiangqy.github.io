@@ -54,7 +54,7 @@ legend style={font=\small, at={(0,1)},anchor=north west},% setting of legend
 ```
 
 * Illustration:
-<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig1-latex.pdf#view=FitH" width="100%" height="500" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig1-latex.pdf#view=FitH" width="100%" height="650" type="application/pdf"></object>
 
 * [back to latex](#latex)
 
@@ -102,7 +102,7 @@ xticklabel style = {font=\small}, yticklabel style = {font=\small},
 ```
 
 * Illustration:
-<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig2-latex.pdf#view=FitH" width="100%" height="500" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig2-latex.pdf#view=FitH" width="100%" height="550" type="application/pdf"></object>
 
 * [back to latex](#latex)
 
@@ -156,7 +156,7 @@ every node near coord/.append style={/pgf/number format/precision=10},
 ```
 
 * Illustration:
-<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig3-latex.pdf#view=FitH" width="100%" height="500" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig3-latex.pdf#view=FitH" width="100%" height="650" type="application/pdf"></object>
 
 * [back to latex](#latex)
 
@@ -259,7 +259,7 @@ legend style={font=\small, at={(0,1)},anchor=north west},
 ```
 
 * Illustration:
-<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig4-latex.pdf#view=FitH" width="100%" height="500" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig4-latex.pdf#view=FitH" width="100%" height="825" type="application/pdf"></object>
 
 * [back to latex](#latex)
 
@@ -299,7 +299,7 @@ legend style={font=\small, at={(0,1)},anchor=north west},
 ```
 
 * Illustration:
-<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig5-latex.pdf#view=FitH" width="100%" height="500" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig5-latex.pdf#view=FitH" width="100%" height="700" type="application/pdf"></object>
 
 * [back to latex](#latex)
 
@@ -418,7 +418,7 @@ legend style={at={(0.05,0.66)},anchor=south west},font=\footnotesize]
 ```
 
 * Illustration:
-<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig6-latex.pdf#view=FitH" width="100%" height="500" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig6-latex.pdf#view=FitH" width="100%" height="700" type="application/pdf"></object>
 
 * [back to latex](#latex)
 
@@ -470,7 +470,7 @@ legend style={at={(0.05,0.66)},anchor=south west},font=\footnotesize]
 ```
 
 * Illustration:
-<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig7-latex.pdf#view=FitH" width="100%" height="500" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tools/fig7-latex.pdf#view=FitH" width="100%" height="550" type="application/pdf"></object>
 
 * [back to latex](#latex)
 
