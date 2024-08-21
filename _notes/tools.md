@@ -478,12 +478,12 @@ legend style={at={(0.05,0.66)},anchor=south west},font=\footnotesize]
 
 * In python, we use matplotlib for plotting.
 
-* Links: Figure [[1](#figa)]
+* Links: Figure [[1](#figa)], [[2](#figb)]
 
 
 ### 2.1. The 1st Example<a name="figa"></a>
 
-* Basic Settings: 
+* Basic Settings: markers, xlabel, ylabel, xticklabel, yticklabel, and legend.
 
 ```python
 import os
@@ -548,5 +548,53 @@ if __name__ == "__main__":
 
 * Illustration:
 <img src="{{ site.url }}{{ site.baseurl }}/notes/tools/fig1.png" width=600 class="img-responsive"/>
+
+* [back to python](#python)
+
+
+### 2.2. The 2nd Example<a name="figb"></a>
+
+* Histogram Figure.
+
+```python
+import os
+import matplotlib as mpl
+import numpy as np
+import matplotlib.pyplot as plt
+
+plt.rcParams["font.family"] = "serif"
+plt.rcParams["font.serif"] = ["Times New Roman"]
+plt.rcParams['text.usetex'] = True  # used for latex format in xlabel/ylabel/title.
+
+basepath = os.path.abspath(os.path.dirname(__file__))
+
+
+def plot_magnitude(savepath):
+    percent = np.arange(3)
+    values_a = np.array([7, 15.8, 35.7])
+    values_b = np.array([33.7, 19.9, 19.5])
+    bar_width = 0.3
+    fig = plt.figure(figsize=(10, 7))
+    ax = fig.add_subplot(111)
+    plt.bar(percent, values_a, width=bar_width, label='A')
+    plt.bar(percent + bar_width, values_b, width=bar_width, label='B')
+    plt.xticks(percent + bar_width / 2, [r'$\alpha$', r'$\beta$',r'$\xi$'], fontsize=32)
+    plt.legend(loc='best', prop={'size': 30})
+    plt.ylim([0, 40])
+
+    values = np.array([0, 10, 20, 30, 40])
+    values_labels = ['0', '10', '20', '30', '40']
+    ax.set_yticks(values)
+    ax.set_yticklabels(values_labels, fontsize=32)
+    plt.tight_layout()
+    plt.savefig(savepath)
+
+if __name__ == "__main__":
+    savepath = os.path.join(basepath, 'fig2.png')
+    plot_magnitude(savepath)
+```
+
+* Illustration:
+<img src="{{ site.url }}{{ site.baseurl }}/notes/tools/fig2.png" width=600 class="img-responsive"/>
 
 * [back to python](#python)
