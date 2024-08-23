@@ -6,6 +6,7 @@ image: tips.jpg
 title: "Tips for Usage of Latex Table, Figure and Algorithm"
 authors: Qing-Yuan Jiang
 type: tool
+intro: Latex table, image, algorithm typesetting usage for academic paper.
 ---
 
 # Tips for Usage of Latex Table, Figure and Algorithm

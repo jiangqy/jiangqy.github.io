@@ -6,6 +6,7 @@ image: tools.jpg
 title: "Tools for Creating Illustrations in Academic Papers"
 authors: Qing-Yuan Jiang
 type: tool
+intro: Creating illustrations for academic paper with Latex and Python.
 ---
 
 # Tools for Creating Illustrations in Academic Papers

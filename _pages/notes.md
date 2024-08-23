@@ -20,7 +20,7 @@ permalink: /notes/
   <li class="flex-item2">
     <a href="{{ note.link }}" target="_blank"><strong>{{ note.title }}</strong></a>
     <br/>{{ note.authors }}
-    <br/>Update Date: {{ site.time | date: '%B %d, %Y' }}
+    <br/>Intro: {{ note.intro }}
   </li>
   </ul>
   </div>
