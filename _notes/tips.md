@@ -145,7 +145,7 @@ A & List:
 
 ## 2. Figures <a name="figure"></a>
 
-* Links: Figure [[1](#fig1)]
+* Links: Figure [[1](#fig1)], [[2](#fig2)].
 
 ### 2.1. Two Figures Side by Side.<a name="fig1"></a>
 
@@ -181,3 +181,47 @@ A & List:
 * [back to Figures](#figure)
 
 
+### 2.2. Figures and Tables Side by Side.<a name="fig2"></a>
+
+
+```latex
+\documentclass{article}
+\usepackage[paperheight=4cm,paperwidth=12cm,left=0cm, right=0cm, top=0cm, bottom=0cm]{geometry}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{graphicx}
+\usepackage{booktabs}
+
+\begin{document}
+\begin{table}
+\begin{minipage}[b]{0.49\textwidth}
+\centering
+\captionof{table}{Example 2: Table}
+\label{tab:tab1}
+\begin{tabular}[b]{llcc}
+\toprule    
+Item1 & Item2 & Item3 & Item4 \\
+\midrule    
+C & 1  & 1  & 1  \\
+B & 2  & 2  & 2  \\
+C & 3  & 3  & 3  \\
+\bottomrule 
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}[b]{0.49\textwidth}
+\centering
+\includegraphics[width=0.5\textwidth]{example-image}
+\captionof{figure}{Example 3: Figure}
+\label{fig:fig1}
+\end{minipage}
+\end{table}
+\end{document}
+```
+
+* Illustration:
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tips/fig2.pdf#view=FitH" width="100%" height="400" type="application/pdf"></object>
+
+* [back to Figures](#figure)
