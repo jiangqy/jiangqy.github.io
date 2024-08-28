@@ -18,7 +18,10 @@ usemathjax : true
 
 ## 1. Tables <a name="table"></a>
 
-### 1.1. Specify Table Cell Width
+* Links: Table [[1](#tab1)], [[2](#tab2)], [[3](#tab3)], [[4](#tab4)]
+
+### 1.1. Specify Table Cell Width<a name="tab1"></a>
+
 
 ```latex
 \documentclass{article}
@@ -47,16 +50,134 @@ A & B & Country & Destination\\
 * Illustration:
 <object data="{{ site.url }}{{ site.baseurl }}/notes/tips/tab1.pdf#view=FitH" width="100%" height="200" type="application/pdf"></object>
 
+* [back to Tables](#table)
+
+### 1.2. Fill Color in Table Cell<a name="tab2"></a>
+
+
+```latex
+\documentclass{article}
+
+\usepackage[paperheight=1.5cm,paperwidth=12cm,left=0cm, right=0cm, top=0cm, bottom=0cm]{geometry}
+\usepackage[table]{xcolor}
+
+\begin{document}
+\begin{table}\centering
+\caption{Example 2: filling color in table cell.}
+\begin{tabular}{l|c|r}
+  \hline
+  Some & \cellcolor{blue!25}coloured & contents \\
+  \hline
+\end{tabular}
+\end{table}
+\end{document}
+```
+
+* Illustration:
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tips/tab2.pdf#view=FitH" width="100%" height="150" type="application/pdf"></object>
+
+* [back to Tables](#table)
+
+### 1.3. Insert Image into Table Cell<a name="tab3"></a>
+
+
+```latex
+\documentclass{article}
+
+\usepackage[paperheight=3.5cm,paperwidth=8cm,left=0cm, right=0cm, top=0cm, bottom=0cm]{geometry}
+
+\usepackage[export]{adjustbox}
+
+\begin{document}
+\begin{table}[t]
+\centering
+\caption{Example 3: Insert image into table.}
+\begin{tabular}{|p{1.5cm}|c|}
+\hline
+Number &   Image \\ 
+\hline
+A   &   \includegraphics[width=0.3\textwidth,margin=1ex 1ex 1ex 1ex,valign=m]{example-image}  \\
+\hline
+\end{tabular}
+\end{table}
+\end{document}
+```
+
+* Illustration:
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tips/tab3.pdf#view=FitH" width="100%" height="500" type="application/pdf"></object>
+
+* [back to Tables](#table)
+
+
+### 1.4. Insert Image into Table Cell<a name="tab4"></a>
+
+
+```latex
+\documentclass{article}
+
+\usepackage[paperheight=5cm,paperwidth=8cm,left=0cm, right=0cm, top=0cm, bottom=0cm]{geometry}
+
+\usepackage{enumitem}
+
+\begin{document}
+
+\begin{table}[h!]
+\centering
+\caption{Example 4: Insert list into table cell.}
+\begin{tabular}{|c|p{5cm}|}
+\hline
+A & List:
+\begin{itemize}[topsep=0pt]
+\item B.1
+\item B.2
+\end{itemize}\\ \hline
+\end{tabular}
+\end{table}
+
+\end{document}
+```
+
+* Illustration:
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tips/tab4.pdf#view=FitH" width="100%" height="435" type="application/pdf"></object>
+
+* [back to Tables](#table)
+
+
 ## 2. Figures <a name="figure"></a>
 
-by using: $$\boldsymbol{R}$$
+* Links: Figure [[1](#fig1)]
 
-$$\boldsymbol{R}$$
+### 2.1. Two Figures Side by Side.<a name="fig1"></a>
 
-by using: $$\phi(\gamma)$$
 
-$$a^2 + b^2 = c^2$$
+```latex
+\documentclass{article}
+\usepackage[paperheight=6cm,paperwidth=12cm,left=0cm, right=0cm, top=0cm, bottom=0cm]{geometry}
+\usepackage{graphicx}
 
-by using: $a^2 + b^2 = c^2$
+\begin{document}
 
-$a^2 + b^2 = c^2$
+\begin{figure}[t]
+\centering
+\begin{minipage}{.48\textwidth}
+\centering
+\includegraphics[width=0.9\linewidth]{example-image}
+\caption{A}
+\label{fig:A}
+\end{minipage} \hspace{5pt}
+\begin{minipage}{.48\textwidth}
+\centering
+\includegraphics[width=0.9\linewidth]{example-image}
+\caption{B}
+\label{fig:B}
+\end{minipage}
+\end{figure}
+\end{document}
+```
+
+* Illustration:
+<object data="{{ site.url }}{{ site.baseurl }}/notes/tips/fig1.pdf#view=FitH" width="100%" height="550" type="application/pdf"></object>
+
+* [back to Figures](#figure)
+
+
