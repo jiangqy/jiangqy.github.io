@@ -7,6 +7,7 @@ title: "Tips for Usage of Latex Table, Figure and Algorithm"
 authors: Qing-Yuan Jiang
 type: tool
 intro: Latex table, image, algorithm typesetting usage for academic paper.
+usemathjax : true
 ---
 
 # Tips for Usage of Latex Table, Figure and Algorithm
@@ -48,3 +49,14 @@ A & B & Country & Destination\\
 
 ## 2. Figures <a name="figure"></a>
 
+by using: $$\boldsymbol{R}$$
+
+$$\boldsymbol{R}$$
+
+by using: $$\phi(\gamma)$$
+
+$$a^2 + b^2 = c^2$$
+
+by using: $a^2 + b^2 = c^2$
+
+$a^2 + b^2 = c^2$
