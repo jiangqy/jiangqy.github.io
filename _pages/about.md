@@ -20,15 +20,27 @@ I am currently an Associate Professor at <a href="https://cs.njust.edu.cn/" targ
 
 ## Internship Experience
 <div class="rowl1" style="padding-top: 10px;">
-
-1. <strong>ByteDance AI Lab (November, 2018~April,2019).</strong>
+1. ByteDance AI Lab (November, 2018~April,2019).
 </div>
 
 ## Work Experience   
 <div class="rowl1" style="padding-top: 10px;">
 
-1. <strong>Huawei. September, 2020~June,2024.</strong>
-2. <strong>Nanjing University of Science and Technology. July, 2024~Now.</strong>
+1. Huawei. September, 2020~June,2024.
+2. Nanjing University of Science and Technology. July, 2024~Now.
+
+</div>
+
+## Professional Service   
+<div class="rowl1" style="padding-top: 10px;">
+
+1. IEEE, Transactions on Pattern Analysis and Machine Intelligence, <i>TPAMI</i>. Journal Reviewer.
+2. IEEE, Transactions on Neural Networks and Learning System, <i>TNNLS</i>. Journal Reviewer.
+3. IEEE, Transactions on Image Processing, <i>TIP</i>. Journal Reviewer.
+4. IEEE, Transactions on Signal Processing, <i>TSP</i>. Journal Reviewer.
+5. IEEE, Transactions on Multimedia, <i>TMM</i>. Journal Reviewer.
+6. ICLR, NeurIPS, ICML, AISTATS, CVPR, AAAI, ACCV. Conference Reviewer.
+7. AAAI-2019, AAAI-2020, AAAI-2025. PC member.
 
 </div>
 
@@ -38,7 +50,7 @@ I am currently an Associate Professor at <a href="https://cs.njust.edu.cn/" targ
 <div class="rowl1" style="padding-top: 10px;">
 
 {% for award in site.data.awards %}
-{{ forloop.index }}. <strong>{{ award.name }}</strong>{% if award.name_url %}{% endif %} {% if award.organisation %}. {% if award.organisation_url %}<a href="{{ award.organisation_url }}" target="_blank">{% endif %} {{ award.organisation }}{% if award.organisation_url %}</a>{% endif %}{% endif %}{% if award.subtitle %}: {{ award.subtitle }}{% endif %} ({{ award.year }}).
+{{ forloop.index }}. {{ award.name }}{% if award.name_url %}{% endif %} {% if award.organisation %}. {% if award.organisation_url %}<a href="{{ award.organisation_url }}" target="_blank">{% endif %} {{ award.organisation }}{% if award.organisation_url %}</a>{% endif %}{% endif %}{% if award.subtitle %}: {{ award.subtitle }}{% endif %} ({{ award.year }}).
 {% endfor %}
 </div>
 {% endif %}
