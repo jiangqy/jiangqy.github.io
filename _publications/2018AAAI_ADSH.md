@@ -2,9 +2,10 @@
 layout: publication
 sitemap: false
 title: "Asymmetric Deep Supervised Hashing"
-authors: Qing-Yuan Jiang, Wu-Jun Li.
+authors: <u>Qing-Yuan Jiang</u>, Wu-Jun Li.
 pdf: AAAI2018_ADSH
 image: AAAI2018_ADSH.jpg
+poster: AAAI2018_ADSH_Poster.pdf
 display: Proceedings of the AAAI Conference on Artificial Intelligence
 display_short: AAAI
 year: 2018

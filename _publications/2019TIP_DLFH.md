@@ -2,7 +2,7 @@
 layout: publication
 sitemap: false
 title: "Discrete Latent Factor Model for Cross-Modal Hashing"
-authors: Qing-Yuan Jiang, Wu-Jun Li.
+authors: <u>Qing-Yuan Jiang</u>, Wu-Jun Li.
 pdf: TIP2019_DLFH
 image: TIP2019_DLFH.jpg
 display: IEEE Transactions on Image Processing

@@ -2,12 +2,13 @@
 layout: publication
 sitemap: false
 title: "Deep Cross-Modal Hashing"
-authors: Qing-Yuan Jiang, Wu-Jun Li.
+authors: <u>Qing-Yuan Jiang</u>, Wu-Jun Li.
 pdf: CVPR2017_DCMH
 image: CVPR2017_DCMH.jpg
 display: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
 display_short: CVPR
 year: 2017
+poster: CVPR2017_DCMH_Poster.pdf
 learning2hash: true
 cross_modal_retrieval: true
 github: https://github.com/jiangqy/DCMH-CVPR2017

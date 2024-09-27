@@ -2,9 +2,10 @@
 layout: publication
 sitemap: false
 title: "SVD: A Large-Scale Short Video Dataset for Near-Duplicate Video Retrieval"
-authors: Qing-Yuan Jiang, Yi He, Gen Li, Jian Lin, Lei Li, Wu-Jun Li
+authors: <u>Qing-Yuan Jiang</u>, Yi He, Gen Li, Jian Lin, Lei Li, Wu-Jun Li
 pdf: ICCV2019_SVD
 image: ICCV2019_SVD.jpg
+poster: ICCV2019_SVD_Poster.pdf
 display: Proceedings of the International Conference on Computer Vision 
 display_short: ICCV
 year: 2019

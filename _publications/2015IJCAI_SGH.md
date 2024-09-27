@@ -2,7 +2,7 @@
 layout: publication
 sitemap: false
 title: "Scalable Graph Hashing with Feature Transformation"
-authors: Qing-Yuan Jiang, Wu-Jun Li.
+authors: <u>Qing-Yuan Jiang</u>, Wu-Jun Li.
 pdf: IJCAI2015_SGH
 image: IJCAI2015_SGH.jpg
 display: Proceedings of the International Joint Conference on Artificial Intelligence

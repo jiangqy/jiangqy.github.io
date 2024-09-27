@@ -3,6 +3,7 @@ title: "Publications"
 layout: gridlay
 sitemap: false
 permalink: /publications/
+usemathjax : true
 ---
 
 # Publications
@@ -14,7 +15,7 @@ permalink: /publications/
   {% endif %}
 {% endfor %}
 
-## Conference/Journal Papers
+## Published Papers
 {% for publi in site.publications reversed %}
 
   {% if publi.arxiv == true %}{% else %}
@@ -45,7 +46,7 @@ permalink: /publications/
   </li>
   <li class="flex-item2">
     <!-- <strong>{{ publi.title }}</strong>. {% if publi.pdf %}[<a href="{{ pdffile }}" target="_blank">pdf</a>]{% endif %}{% if publi.github %}[<a href="{{ publi.github }}" target="_blank">github</a>]{% endif %}<br/> -->
-    <strong>{{ publi.title }}</strong>. {% if publi.pdf %}[<a href="{{ pdffile }}" target="_blank">pdf</a>]{% endif %}{% if publi.github %}[<a href="{{ publi.github }}" target="_blank">github</a>]{% endif %}{% if publi.project %}[<a href="{{ publi.project }}" target="_blank">project</a>]{% endif %}<br/>
+    <strong>{{ publi.title }}</strong>. {% if publi.pdf %}[<a href="{{ pdffile }}" target="_blank">pdf</a>]{% endif %}{% if publi.github %}[<a href="{{ publi.github }}" target="_blank">github</a>]{% endif %}{% if publi.project %}[<a href="{{ publi.project }}" target="_blank">project</a>]{% endif %}{% if publi.poster %}[<a href="{{ publi.poster }}" target="_blank">poster</a>]{% endif %}<br/>
     {{ publi.authors }}<br/>
     <em>{{ publi.display }} ({{ publi.display_short }}).</em> {{ publi.year }}<br/>
     {% if publi.abstract %} <a data-bs-toggle="collapse" href="#{{publi.pdf}}"  class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.pdf}}">ABSTRACT</a> {% endif %}
@@ -77,7 +78,13 @@ permalink: /publications/
   {% endif %}
 {% endfor %}
 
-\* Equation contribution.
+&#9835;: Equation contribution.
+
+&#9768;: Corresponding author.
+
+
+<!-- what is it? $$\beta$$ so, what should i do? -->
+<!-- &#9824;&#9768;&#182;&#9835;&#10081; -->
 
 
 ## Pre-Print

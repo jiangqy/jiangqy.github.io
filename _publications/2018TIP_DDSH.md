@@ -2,7 +2,7 @@
 layout: publication
 sitemap: false
 title: "Deep Discrete Supervised Hashing"
-authors: Qing-Yuan Jiang, Xue Cui, Wu-Jun Li.
+authors: <u>Qing-Yuan Jiang</u>, Xue Cui, Wu-Jun Li.
 pdf: TIP2018_DDSH
 image: TIP2018_DDSH.jpg
 display: IEEE Transactions on Image Processing

@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <style>
-code {padding: 6px 8px; font-size: 90%;}
+code {padding: 6px 8px; font-size: 95%;}
 </style>
 
 Welcome to my personal homepage! 
@@ -24,3 +24,8 @@ In 2024, I joined <a href="https://cs.njust.edu.cn/" target="_blank">the School 
 After work, I prefer to play basketball. In 2015, I won third place in the Spot Shooting Competition of NJUCS Fun Sports Day. I am also interesting in history. 
 
 
+<!-- ### News
+<div class="rowl2" style="padding-top: 10px;">
+1. One paper was accepted by NeurIPS 2024.
+2. One paper was accepted by IJCAI 2024.
+</div> -->
