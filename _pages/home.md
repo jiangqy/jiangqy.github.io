@@ -25,7 +25,7 @@ After work, I prefer to play basketball. In 2015, I won third place in the Spot 
 
 
 <!-- ### News
-<div class="rowl2" style="padding-top: 10px;">
-1. One paper was accepted by NeurIPS 2024.
-2. One paper was accepted by IJCAI 2024.
-</div> -->
+
+1. One paper was accepted by NeurIPS 2024!
+2. One paper was accepted by IJCAI 2024!
+3. I joined the school of compute science and engineering, NJUST! -->

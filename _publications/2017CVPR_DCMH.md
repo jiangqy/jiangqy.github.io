@@ -8,6 +8,7 @@ image: CVPR2017_DCMH.jpg
 display: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
 display_short: CVPR
 year: 2017
+video: https://www.youtube.com/watch?v=RZKwK-jfcfE
 poster: CVPR2017_DCMH_Poster.pdf
 learning2hash: true
 cross_modal_retrieval: true

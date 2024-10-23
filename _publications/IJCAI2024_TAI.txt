@@ -1,1 +1,15 @@
-TBD
+@inproceedings{TAI:conf/ijcai/WuJYWCL24,
+  author       = {Xiangyu Wu and
+                  Qing{-}Yuan Jiang and
+                  Yang Yang and
+                  Yi{-}Feng Wu and
+                  Qing{-}Guo Chen and
+                  Jianfeng Lu},
+  title        = {{TAI++:} Text as Image for Multi-Label Image Classification by Co-Learning
+                  Transferable Prompt},
+  booktitle    = {Proceedings of the Thirty-Third International Joint Conference on
+                  Artificial Intelligence},
+  pages        = {5226--5234},
+  publisher    = {ijcai.org},
+  year         = {2024},
+}
