@@ -24,8 +24,8 @@ In 2024, I joined <a href="https://cs.njust.edu.cn/" target="_blank">the School 
 After work, I prefer to play basketball. In 2015, I won third place in the Spot Shooting Competition of NJUCS Fun Sports Day. I am also interesting in history. 
 
 
-<!-- ### News
+### *News*
 
-1. One paper was accepted by NeurIPS 2024!
-2. One paper was accepted by IJCAI 2024!
-3. I joined the school of compute science and engineering, NJUST! -->
+- *One paper was accepted by NeurIPS 2024.*
+- *One paper was accepted by IJCAI 2024.*
+- *I joined Nanjing University of Science and Technology.*
