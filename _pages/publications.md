@@ -17,7 +17,7 @@ usemathjax : true
 
 ## Published Papers
 
-&#9835;: Equation contribution.
+&#9835;: Equal contribution.
 
 &#9768;: Corresponding author.
 
