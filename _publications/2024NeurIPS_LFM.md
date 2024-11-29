@@ -5,6 +5,7 @@ title: "Facilitating Multimodal Classification via Dynamically Learning Modality
 authors: YangYang, Fengqiang Wan, Qing-Yuan Jiang&#9768;, Yi Xu.
 pdf: NeurIPS2024_LFM
 image: NeurIPS2024_LFM.jpg
+slide: NeurIPS2024_LFM_slide.pdf
 display: Proceedings of the 38th Conference on Neural Information Processing Systems
 display_short: NeurIPS
 year: 2024
