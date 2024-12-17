@@ -7,6 +7,7 @@ pdf: CVPR2017_DCMH
 image: CVPR2017_DCMH.jpg
 display: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
 display_short: CVPR
+slide: CVPR2017_DCMH_slide.pdf
 year: 2017
 video: https://www.youtube.com/watch?v=RZKwK-jfcfE
 poster: CVPR2017_DCMH_Poster.pdf
