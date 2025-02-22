@@ -39,8 +39,9 @@ I am currently an Associate Professor at <a href="https://cs.njust.edu.cn/" targ
 3. IEEE, Transactions on Image Processing, <i>TIP</i>. Journal Reviewer.
 4. IEEE, Transactions on Signal Processing, <i>TSP</i>. Journal Reviewer.
 5. IEEE, Transactions on Multimedia, <i>TMM</i>. Journal Reviewer.
-6. ICLR, NeurIPS, ICML, AISTATS, CVPR, AAAI, ACCV. Conference Reviewer.
-7. AAAI-2019, AAAI-2020, AAAI-2025. PC member.
+6. Frontiers of Computer Science, <i>FCS</i>. Journal Reviewer.
+7. ICLR, NeurIPS, ICML, AISTATS, CVPR, AAAI, ACCV. Conference Reviewer.
+8. AAAI-2019, AAAI-2020, AAAI-2025. PC member.
 
 </div>
 

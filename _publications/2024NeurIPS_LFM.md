@@ -2,12 +2,13 @@
 layout: publication
 sitemap: false
 title: "Facilitating Multimodal Classification via Dynamically Learning Modality Gap"
-authors: YangYang, Fengqiang Wan, Qing-Yuan Jiang&#9768;, Yi Xu.
+authors: Yang Yang, Fengqiang Wan, Qing-Yuan Jiang&#9768;, Yi Xu.
 pdf: NeurIPS2024_LFM
 image: NeurIPS2024_LFM.jpg
 slide: NeurIPS2024_LFM_slide.pdf
 display: Proceedings of the 38th Conference on Neural Information Processing Systems
 display_short: NeurIPS
+poster: NeurIPS2024_LFM_Poster.pdf
 year: 2024
 multimodal: true
 video: https://www.bilibili.com/video/BV16GmfYdEWT/?spm_id_from=333.999.0.0&vd_source=4bf56fd239e8e4bb57f149a83770f878
