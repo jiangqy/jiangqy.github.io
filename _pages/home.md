@@ -26,7 +26,7 @@ After work, I prefer to play basketball. In 2015, I won third place in the Spot 
 
 ### *News*
 
-- *One paper was accepted by TPAMI.*
-- *One paper was accepted by NeurIPS 2024.*
-- *One paper was accepted by IJCAI 2024.*
+- *One paper was accepted by TPAMI, congratulations to Hongpeng.*
+- *One paper was accepted by NeurIPS 2024, congratulations to Fengqiang.*
+- *One paper was accepted by IJCAI 2024, congratulations to Xiangyu.*
 - *I joined Nanjing University of Science and Technology.*
