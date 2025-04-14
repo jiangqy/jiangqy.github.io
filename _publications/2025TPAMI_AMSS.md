@@ -3,7 +3,7 @@ layout: publication
 sitemap: false
 title: "Learning to Rebalance Multi-Modal Optimization by Adaptively Masking Subnetworks"
 authors: Yang Yang, Hongpeng Pan, Qing-Yuan Jiang, Yi Xu, and Jinhui Tang.
-pdf: 
+pdf: TPAMI2025_AMSS
 image: TPAMI2025_AMSS.jpg
 slide: 
 display: IEEE Transactions on Pattern Analysis and Machine Intelligence
