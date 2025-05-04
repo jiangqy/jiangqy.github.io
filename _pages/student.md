@@ -8,7 +8,7 @@ permalink: /student/
 
 Welcome to join us! Please refer to <a href="http://www.njustkmg.cn/" _target="_blank">Recruitment Introduction</a> for more details.
 
-## Ph.D Student
+<!-- ## Ph.D Student
 
 &#9768;: Co-supervise with Prof. <a href="http://www.njustkmg.cn/">Yang Yang</a>.
 
@@ -34,5 +34,5 @@ Welcome to join us! Please refer to <a href="http://www.njustkmg.cn/" _target="_
 5. Weihao Zhu&#9768;, <i>in process</i>. 2024. Multimodal Learning. <span style="float:right"></span>
 
 6. Qi Yan&#9768;, <i>in process</i>. 2024. Multimodal Learning. <span style="float:right"></span>
-</div>
+</div> -->
 
