@@ -1,1 +1,12 @@
-TBD
+@inproceedings{LFM:conf/nips/0074WJ024,
+  author       = {Yang Yang and
+                  Fengqiang Wan and
+                  Qing{-}Yuan Jiang and
+                  Yi Xu},
+  title        = {Facilitating Multimodal Classification via Dynamically Learning Modality
+                  Gap},
+  booktitle    = {Advances in Neural Information Processing Systems 38: Annual Conference
+                  on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver,
+                  BC, Canada, December 10 - 15, 2024},
+  year         = {2024},
+}
