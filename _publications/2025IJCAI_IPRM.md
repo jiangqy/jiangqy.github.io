@@ -5,10 +5,10 @@ title: "Towards Equilibrium: An Instantaneous Probe-and-Rebalance Multimodal Lea
 authors: Yang Yang, Xixian Wu, and Qing-Yuan Jiang&#9768;.
 pdf: IJCAI2025_IPRM
 image: IJCAI2025_IPRM.jpg
-slide: 
+slide: IJCAI2025_IPRM_slide.pdf
 display: Proceedings of the 34rd International Joint Conference on Artificial Intelligence
 display_short: IJCAI
-poster: 
+poster: IJCAI2025_IPRM_Poster.pdf
 year: 2025
 multimodal: true
 video: 
