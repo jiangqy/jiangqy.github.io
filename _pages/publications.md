@@ -54,7 +54,11 @@ usemathjax : true
     <!-- <strong>{{ publi.title }}</strong>. {% if publi.pdf %}[<a href="{{ pdffile }}" target="_blank">pdf</a>]{% endif %}{% if publi.github %}[<a href="{{ publi.github }}" target="_blank">github</a>]{% endif %}<br/> -->
     <strong>{{ publi.title }}</strong>. {% if publi.pdf %}[<a href="{{ pdffile }}" target="_blank">pdf</a>]{% endif %}{% if publi.github %}[<a href="{{ publi.github }}" target="_blank">github</a>]{% endif %}{% if publi.project %}[<a href="{{ publi.project }}" target="_blank">project</a>]{% endif %}{% if publi.poster %}[<a href="{{ publi.poster }}" target="_blank">poster</a>]{% endif %}{% if publi.video %}[<a href="{{ publi.video }}" target="_blank">video</a>]{% endif %}{% if publi.slide %}[<a href="{{ publi.slide }}" target="_blank">slide</a>]{% endif %}<br/>
     {{ publi.authors }}<br/>
-    <em>{{ publi.display }} ({{ publi.display_short }}).</em> {{ publi.year }}<br/>
+    <em>{{ publi.display }} ({{ publi.display_short }}).</em>
+    {% if publi.type %}
+    <strong><em>{{ publi.type }}.</em> </strong>
+    {% endif %}
+    {{ publi.year }}<br/>
     {% if publi.abstract %} <a data-bs-toggle="collapse" href="#{{publi.pdf}}"  class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.pdf}}">ABSTRACT</a> {% endif %}
     {% if bibpresent == true %} <a data-bs-toggle="collapse" href="#{{publi.pdf}}2"  class="btn-bib" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.pdf}}2">BIB</a> {% endif %}
     {% if publi.learning2hash == true %} <a class="btn-l2h" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.pdf}}2">Learning2Hash</a> {% endif %}

@@ -38,8 +38,6 @@ usemathjax : true
 <div style="text-align: center;">
 <p float="left">
   <img src="{{ site.url }}{{ site.baseurl }}/gallery/IJCAI25-conf-2.jpg" width="600" />
-  <img src="{{ site.url }}{{ site.baseurl }}/gallery/IJCAI25-conf-1.jpg" width="600" />
-  <img src="{{ site.url }}{{ site.baseurl }}/gallery/IJCAI25-conf-3.jpg" width="600" />
 </p>
 </div>
 
