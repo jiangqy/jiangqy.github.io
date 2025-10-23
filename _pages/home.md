@@ -23,7 +23,7 @@ Welcome students who are interested in applying for postdoctoral positions, purs
 
 ### *News*
 - *One paper was accepted by NeurIPS 2025 (oral), congratulations to Longfei.*
-- Welcome graduate students enrolling in 2026 to join our research group.
+- *Welcome graduate students enrolling in 2026 to join our research group.*
 - *Three papers were accepted by IJCAI 2025, congratulations to Xixian, Zhouyang, and Zhihao.*
 - *One paper was accepted by TPAMI, congratulations to Hongpeng.*
 - *One paper was accepted by NeurIPS 2024, congratulations to Fengqiang.*

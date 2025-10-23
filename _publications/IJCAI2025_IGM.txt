@@ -1,0 +1,10 @@
+@inproceedings{IGM:conf/ijcai/JiangCY25,
+  author       = {Qing{-}Yuan Jiang and
+                  Zhouyang Chi and
+                  Yang Yang},
+  title        = {Interactive Multimodal Learning via Flat Gradient Modification},
+  booktitle    = {IJCAI},
+  pages        = {5489--5497},
+  publisher    = {ijcai.org},
+  year         = {2025},
+}

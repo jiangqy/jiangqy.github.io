@@ -1,0 +1,11 @@
+@inproceedings{IPRM:conf/ijcai/YangWJ25,
+  author       = {Yang Yang and
+                  Xixian Wu and
+                  Qing{-}Yuan Jiang},
+  title        = {Towards Equilibrium: An Instantaneous Probe-and-Rebalance Multimodal
+                  Learning Approach},
+  booktitle    = {IJCAI},
+  pages        = {3552--3560},
+  publisher    = {ijcai.org},
+  year         = {2025},
+}

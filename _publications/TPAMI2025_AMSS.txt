@@ -1,0 +1,14 @@
+@article{AMSS:journals/pami/YangPJXT25,
+  author       = {Yang Yang and
+                  Hongpeng Pan and
+                  Qing{-}Yuan Jiang and
+                  Yi Xu and
+                  Jinhui Tang},
+  title        = {Learning to Rebalance Multi-Modal Optimization by Adaptively Masking
+                  Subnetworks},
+  journal      = {TPAMI},
+  volume       = {47},
+  number       = {6},
+  pages        = {4553--4566},
+  year         = {2025},
+}

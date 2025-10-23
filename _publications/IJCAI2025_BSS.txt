@@ -1,0 +1,10 @@
+@inproceedings{BSS:conf/ijcai/GuanJY25,
+  author       = {Zhi{-}Hao Guan and
+                  Qing{-}Yuan Jiang and
+                  Yang Yang},
+  title        = {Balance-Aware Sequence Sampling Makes Multi-Modal Learning Better},
+  booktitle    = {IJCAI},
+  pages        = {2838--2846},
+  publisher    = {ijcai.org},
+  year         = {2025},
+}
