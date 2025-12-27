@@ -22,7 +22,7 @@ nav_pages:
   - name: about
   - name: student
   - name: publications
-  # - name: project
+  - name: project
   - name: gallery
   - name: notes
 
