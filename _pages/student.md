@@ -40,6 +40,10 @@ Welcome to join us! Please refer to <a href="http://www.njustkmg.cn/" _target="_
           <strong>Yinan Han</strong>, Li Wang, Qing-Yuan Jiang, Yang Yang.
           The winner of <i>HOUR-LONG VIDEO-QA competition</i>. <i>ICCV</i>, 2025.
         </li>
+        <li>
+          <strong>Yinan Han</strong>, Qing-Yuan Jiang.
+          PAF: Perturbation-Aware Filtering for Open-Set Semi-Supervised Learning. <i>CVPR</i>, 2026.
+        </li>
       </ul>
     </li>
     <li style="margin-bottom: 12px;">
