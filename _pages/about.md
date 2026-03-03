@@ -45,8 +45,9 @@ I am also interesting in history.  -->
 4. IEEE, Transactions on Signal Processing, <i>TSP</i>. Journal Reviewer.
 5. IEEE, Transactions on Multimedia, <i>TMM</i>. Journal Reviewer.
 6. Frontiers of Computer Science, <i>FCS</i>. Journal Reviewer.
-7. ICLR, NeurIPS, ICML, AISTATS, CVPR, AAAI, ACCV. Conference Reviewer.
-8. AAAI-2019, AAAI-2020, AAAI-2025, AAAI-2026. PC member.
+7. Pattern Recognition. Journal Reviewer.
+8. ICLR, NeurIPS, ICML, CVPR, AAAI, ACMMM, IJCAI, ECCV, AISTATS, ACCV. Conference Reviewer.
+9. AAAI-2019, AAAI-2020, AAAI-2025, AAAI-2026. PC member.
 
 </div>
 
