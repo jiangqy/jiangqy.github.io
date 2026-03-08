@@ -18,14 +18,6 @@ permalink: /project/
       </ul>
     </li>
     <li style="margin-bottom: 12px;">
-      适于多维不平衡问题的多模态重平衡学习方法研究
-      <ul>
-        <li>
-          2026~2028，江苏省自然科学基金 • 青年基金项目，在研
-        </li>
-      </ul>
-    </li>
-    <li style="margin-bottom: 12px;">
       基于大语言模型的应用服务开发
       <ul>
         <li>
@@ -35,4 +27,3 @@ permalink: /project/
     </li>
   </ul>
 </div>
-

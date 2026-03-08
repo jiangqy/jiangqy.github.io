@@ -52,7 +52,7 @@ usemathjax : true
   </li>
   <li class="flex-item2">
     <!-- <strong>{{ publi.title }}</strong>. {% if publi.pdf %}[<a href="{{ pdffile }}" target="_blank">pdf</a>]{% endif %}{% if publi.github %}[<a href="{{ publi.github }}" target="_blank">github</a>]{% endif %}<br/> -->
-    <strong>{{ publi.title }}</strong>. {% if publi.pdf %}[<a href="{{ pdffile }}" target="_blank">pdf</a>]{% endif %}{% if publi.github %}[<a href="{{ publi.github }}" target="_blank">github</a>]{% endif %}{% if publi.project %}[<a href="{{ publi.project }}" target="_blank">project</a>]{% endif %}{% if publi.poster %}[<a href="{{ publi.poster }}" target="_blank">poster</a>]{% endif %}{% if publi.video %}[<a href="{{ publi.video }}" target="_blank">video</a>]{% endif %}{% if publi.slide %}[<a href="{{ publi.slide }}" target="_blank">slide</a>]{% endif %}<br/>
+    <strong>{{ publi.title }}</strong>. {% if publi.pdf %}[<a href="{{ pdffile }}" target="_blank">pdf</a>]{% endif %}{% if publi.supplementary %}[<a href="{{ publi.supplementary }}" target="_blank">supp</a>]{% endif %}{% if publi.github %}[<a href="{{ publi.github }}" target="_blank">github</a>]{% endif %}{% if publi.project %}[<a href="{{ publi.project }}" target="_blank">project</a>]{% endif %}{% if publi.poster %}[<a href="{{ publi.poster }}" target="_blank">poster</a>]{% endif %}{% if publi.video %}[<a href="{{ publi.video }}" target="_blank">video</a>]{% endif %}{% if publi.slide %}[<a href="{{ publi.slide }}" target="_blank">slide</a>]{% endif %}<br/>
     {{ publi.authors }}<br/>
     <em>{{ publi.display }} ({{ publi.display_short }}).</em>
     {% if publi.type %}
