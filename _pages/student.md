@@ -15,7 +15,7 @@ Welcome to join us! Please refer to <a href="http://www.njustkmg.cn/" _target="_
 <div class="rowl1" style="padding: 12px;">
   <ul style="list-style-position: outside; padding-left: 20px;">
     <li style="margin-bottom: 12px;">
-      <a href="https://hlf404.github.io/">Longfei Huang</a>&#9768;, <i>in process</i>. 2024. Multimodal Learning.
+      <a href="https://hlf404.github.io/">Longfei Huang (黄龙飞)</a>&#9768;, <i>in process</i>. 2024. Multimodal Learning.
       <ul>
         <li>
           Qing-Yuan Jiang, <strong>Longfei Huang</strong>, and Yang Yang. Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion. <i>NeurIPS</i>, 2025.
@@ -34,7 +34,7 @@ Welcome to join us! Please refer to <a href="http://www.njustkmg.cn/" _target="_
 <div class="rowl1" style="padding: 12px;">
   <ul style="list-style-position: outside; padding-left: 20px;">
     <li style="margin-bottom: 12px;">
-      Yinan Han&#9768;, <i>in process</i>. 2024. Open Set Supervised Learning.
+      Yinan Han (韩一楠)&#9768;, <i>in process</i>. 2024. Open Set Supervised Learning.
       <ul>
         <li>
           <strong>Yinan Han</strong>, Li Wang, Qing-Yuan Jiang, Yang Yang.
@@ -47,10 +47,10 @@ Welcome to join us! Please refer to <a href="http://www.njustkmg.cn/" _target="_
       </ul>
     </li>
     <li style="margin-bottom: 12px;">
-      Qi Yan&#9768;, <i>in process</i>. 2024. Multimodal Time Series.
+      Qi Yan (晏琦)&#9768;, <i>in process</i>. 2024. Multimodal Time Series.
     </li>
     <li style="margin-bottom: 12px;">
-      Li Wang&#9768;, <i>in process</i>. 2025. Multimodal Learning.
+      Li Wang (王力)&#9768;, <i>in process</i>. 2025. Multimodal Learning.
       <ul>
         <li>
           Yinan Han, <strong>Li Wang</strong>, Qing-Yuan Jiang, Yang Yang.

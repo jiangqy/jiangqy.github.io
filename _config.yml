@@ -36,6 +36,8 @@ collections:
     output: true
   gallery:
     output: true
+  project:
+    output: true
 
 include:
   - .htaccess
