@@ -23,8 +23,8 @@ nav_pages:
   - name: student
   - name: publications
   - name: project
-  - name: gallery
   - name: notes
+  - name: gallery
 
 # Do you want to group your publications by year? {true/false}
 # group_pub_by_year: true
