@@ -90,11 +90,8 @@ usemathjax : true
 {% endfor %}
 
 
-<!-- what is it? $$\beta$$ so, what should i do? -->
-<!-- &#9824;&#9768;&#182;&#9835;&#10081; -->
 
-
-## Pre-Print
+<!-- ## Pre-Print
 {% for publi in site.publications %}
   {% if publi.arxiv == true %}
   <div class="well-sm publication-entry">
@@ -111,4 +108,4 @@ usemathjax : true
   </ul>
   </div>
   {% endif %}
-{% endfor %}
+{% endfor %} -->
