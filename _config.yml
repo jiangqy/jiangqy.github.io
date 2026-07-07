@@ -20,9 +20,10 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
-  - name: student
+  - name: course
   - name: publications
   - name: project
+  - name: student
   - name: notes
   - name: gallery
 
@@ -37,6 +38,8 @@ collections:
   gallery:
     output: true
   project:
+    output: true
+  course:
     output: true
 
 include:
