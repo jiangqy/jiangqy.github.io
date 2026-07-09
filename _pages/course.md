@@ -5,7 +5,7 @@ sitemap: false
 permalink: /course/
 ---
 
-### Introduction to Artificial Intelligence. Fall, 2026
+### [1]. Introduction to Artificial Intelligence. Fall, 2026
 
 <div class="rowl1" style="padding: 12px;">
   <ul style="list-style-position: outside; padding-left: 20px;">
@@ -16,7 +16,7 @@ permalink: /course/
           For UG students, Fall 2026.
         </li>
         <li>
-          Slides: <a href="{{ site.url }}{{ site.baseurl }}/course/01.Introduction_to_Artificial_Intelligence/chpt0.pdf" target="_blank">[0]</a>, <a href="{{ site.url }}{{ site.baseurl }}/course/01.Introduction_to_Artificial_Intelligence" target="_blank">[1]</a>
+          Slides: <a href="{{ site.url }}{{ site.baseurl }}/course/01.Introduction_to_Artificial_Intelligence/chpt0.pdf" target="_blank">[0]</a>, <a href="{{ site.url }}{{ site.baseurl }}/course/01.Introduction_to_Artificial_Intelligence/chpt0.pdf" target="_blank">[1]</a>
         </li>
         <li>
           Course homepage: <a href="https://www.xueyinonline.com/detail/263603928" target="_blank">link</a>
