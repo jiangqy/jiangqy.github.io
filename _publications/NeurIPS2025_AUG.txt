@@ -1,0 +1,9 @@
+@inproceedings{AUG:conf/nips/JiangHY25,
+  author       = {Qing{-}Yuan Jiang and
+                  Longfei Huang and
+                  Yang Yang},
+  title        = {Rethinking Multimodal Learning from the Perspective of Mitigating
+                  Classification Ability Disproportion},
+  booktitle    = {NeurIPS},
+  year         = {2025},
+}
