@@ -5,7 +5,7 @@ sitemap: false
 permalink: /course/
 ---
 
-### [1]. Introduction to Artificial Intelligence. Fall, 2026
+<!-- ### [1]. Introduction to Artificial Intelligence. Fall, 2026
 
 <div class="rowl1" style="padding: 12px;">
   <ul style="list-style-position: outside; padding-left: 20px;">
@@ -27,4 +27,4 @@ permalink: /course/
       </ul>
     </li>
   </ul>
-</div>
+</div> -->
