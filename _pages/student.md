@@ -8,33 +8,31 @@ permalink: /student/
 
 Welcome to join us! Please refer to <a href="http://www.njustkmg.cn/" _target="_blank">Recruitment Introduction</a> for more details.
 
-&#9768;: Co-supervise with Prof. <a href="http://www.njustkmg.cn/">Yang Yang</a>.
-
-## Ph.D Student
-
-<div class="rowl1" style="padding: 12px;">
-  <ul style="list-style-position: outside; padding-left: 20px;">
-    <li style="margin-bottom: 12px;">
-      <a href="https://hlf404.github.io/">Longfei Huang (黄龙飞)</a>&#9768;, <i>in process</i>. 2024. Multimodal Learning.
-      <ul>
-        <li>
-          Qing-Yuan Jiang, <strong>Longfei Huang</strong>, and Yang Yang. Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion. <i>NeurIPS</i>, 2025.
-        </li>
-      </ul>
-    </li>
-    <li style="margin-bottom: 12px;">
-      Xuecong Zheng&#9768;, <i>in process</i>. 2025. AI4Sci.
-    </li>
-  </ul>
-</div>
-
+<!-- &#9768;: Co-supervise with Prof. <a href="http://www.njustkmg.cn/">Yang Yang</a>. -->
 
 ## Master Student
 
 <div class="rowl1" style="padding: 12px;">
   <ul style="list-style-position: outside; padding-left: 20px;">
     <li style="margin-bottom: 12px;">
-      Yinan Han (韩一楠)&#9768;, <i>in process</i>. 2024. Open Set Supervised Learning.
+      Lijun Zhao~(赵丽君);, <i>in process</i>. 2026. Multimodal Learning.
+    </li>
+    <li style="margin-bottom: 12px;">
+      Cheng Peng~(彭程);, <i>in process</i>. 2026. RAG.
+    </li>
+  </ul>
+</div>
+
+
+## Student Co-Supervise with Prof. <a href="http://www.njustkmg.cn/">Yang Yang</a>.
+
+<div class="rowl1" style="padding: 12px;">
+  <ul style="list-style-position: outside; padding-left: 20px;">
+    <li style="margin-bottom: 12px;">
+      Xuecong Zheng;, <i>in process</i>. 2025. AI4Sci.
+    </li>
+    <li style="margin-bottom: 12px;">
+      Yinan Han (韩一楠);, <i>in process</i>. 2024. Open Set Supervised Learning.
       <ul>
         <li>
           <strong>Yinan Han</strong>, Li Wang, Qing-Yuan Jiang, Yang Yang.
@@ -47,10 +45,10 @@ Welcome to join us! Please refer to <a href="http://www.njustkmg.cn/" _target="_
       </ul>
     </li>
     <li style="margin-bottom: 12px;">
-      Qi Yan (晏琦)&#9768;, <i>in process</i>. 2024. Multimodal Time Series.
+      Qi Yan (晏琦);, <i>in process</i>. 2024. Multimodal Time Series.
     </li>
     <li style="margin-bottom: 12px;">
-      Li Wang (王力)&#9768;, <i>in process</i>. 2025. Multimodal Learning.
+      Li Wang (王力);, <i>in process</i>. 2025. Multimodal Learning.
       <ul>
         <li>
           Yinan Han, <strong>Li Wang</strong>, Qing-Yuan Jiang, Yang Yang.
