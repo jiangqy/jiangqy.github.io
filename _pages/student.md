@@ -15,10 +15,10 @@ Welcome to join us! Please refer to <a href="http://www.njustkmg.cn/" _target="_
 <div class="rowl1" style="padding: 12px;">
   <ul style="list-style-position: outside; padding-left: 20px;">
     <li style="margin-bottom: 12px;">
-      Lijun Zhao~(赵丽君);, <i>in process</i>. 2026. Multimodal Learning.
+      Lijun Zhao (赵丽君);, <i>in process</i>. 2026. Multimodal Learning.
     </li>
     <li style="margin-bottom: 12px;">
-      Cheng Peng~(彭程);, <i>in process</i>. 2026. RAG.
+      Cheng Peng (彭程);, <i>in process</i>. 2026. RAG.
     </li>
   </ul>
 </div>
