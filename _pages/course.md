@@ -60,7 +60,7 @@ permalink: /course/
 </li>
 <li class="flex-item2">
   <a href="03.Advanced_Machine_Learning" target="_blank"><strong>Advanced Machine Learning</strong></a>
-  <br/>4th-9th Week, fall, 2026.
+  <br/>Fall, 2026.
   <br/>
 </li>
 </ul>
