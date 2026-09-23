@@ -19,7 +19,7 @@ After graduated from Nanjing University, I was an algorithm researcher at <a hre
 
 In 2024, I joined <a href="https://cs.njust.edu.cn/" target="_blank">the School of Compute Science and Engineering</a>, <a href="https://www.njust.edu.cn/" target="_blank">Nanjing University of Science and Technology</a>, as an associate professor. My research interests are multimodal learning, multimodal large language models, information retrieval. 
 
-Welcome students who are interested in applying for postdoctoral positions, pursuing Ph.D. or Master's degrees, as well as undergraduates who wish to participate in scientific research training or complete their graduation thesis to join <a href="http://www.njustkmg.cn/" target="_blank">our group</a>. Please contact <a href="mailto:yyang@njust.edu.cn">Prof. Yang Yang</a>, Prof. <a href="mailto:wlguo@njust.edu.cn">Prof. Wei Li Guo</a>, or Prof. <a href="mailto:jiangqy@njust.edu.cn">Prof. Qing-Yuan Jiang</a> via email.
+Welcome students who are interested in applying for postdoctoral positions, pursuing Ph.D. or Master's degrees, as well as undergraduates who wish to participate in scientific research training or complete their graduation thesis to join <a href="http://www.njustkmg.cn/" target="_blank">our group</a>. Please contact <a href="mailto:yyang@njust.edu.cn">Prof. Yang Yang</a>, <a href="mailto:wlguo@njust.edu.cn">Prof. Wei Li Guo</a>, or <a href="mailto:jiangqy@njust.edu.cn">Prof. Qing-Yuan Jiang</a> via email.
 
 ### *News*
 - *One paper was accepted by TPAMI, congratulations to Fengqiang.*
