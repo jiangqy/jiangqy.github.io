@@ -24,7 +24,7 @@ permalink: /course/
   </ul>
 </div> -->
 
-### 本科生课程
+<!-- ### 本科生课程
 <div class="well-sm publication-entry">
 <ul class="flex-container">
 <li class="flex-item1">
@@ -36,11 +36,11 @@ permalink: /course/
   <br/>
 </li>
 </ul>
-</div>
+</div> -->
 
 
 ### 研究生课程
-<div class="well-sm publication-entry">
+<!-- <div class="well-sm publication-entry">
 <ul class="flex-container">
 <li class="flex-item1">
     <img src="{{ site.url }}{{ site.baseurl }}/course/02.Next-Generation_Artificial_Intelligence_and_Applications/intro_to_AI.png" class="img-responsive"/>
@@ -51,7 +51,7 @@ permalink: /course/
   <br/>
 </li>
 </ul>
-</div>
+</div> -->
 
 <div class="well-sm publication-entry">
 <ul class="flex-container">

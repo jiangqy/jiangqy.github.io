@@ -42,6 +42,10 @@ Welcome to join us! Please refer to <a href="http://www.njustkmg.cn/" _target="_
           <strong>Yinan Han</strong>, Qing-Yuan Jiang.
           PAF: Perturbation-Aware Filtering for Open-Set Semi-Supervised Learning. <i>CVPR</i>, 2026.
         </li>
+        <li>
+          <strong>Yinan Han</strong>, Qing-Yuan Jiang.
+          Memory-Driven Contrastive Embedding Enhancement for Fine-Grained Open-Set Semi-Supervised Learning. <i>NeurIPS</i>, 2026.
+        </li>
       </ul>
     </li>
     <li style="margin-bottom: 12px;">

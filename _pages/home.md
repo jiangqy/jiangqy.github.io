@@ -22,13 +22,14 @@ In 2024, I joined <a href="https://cs.njust.edu.cn/" target="_blank">the School 
 Welcome students who are interested in applying for postdoctoral positions, pursuing Ph.D. or Master's degrees, as well as undergraduates who wish to participate in scientific research training or complete their graduation thesis to join <a href="http://www.njustkmg.cn/" target="_blank">our group</a>. Please contact <a href="mailto:yyang@njust.edu.cn">Prof. Yang Yang</a>, <a href="mailto:wlguo@njust.edu.cn">Prof. Wei Li Guo</a>, or <a href="mailto:jiangqy@njust.edu.cn">Prof. Qing-Yuan Jiang</a> via email.
 
 ### *News*
+- *Welcome graduate students enrolling in 2027 to join our research group.*
 - *One paper was accepted by TPAMI, congratulations to Fengqiang.*
 - *One paper was accepted by FCS, congratulations to Fengqiang.*
-- *One paper was accepted by CVPR 2026, congratulations to Yinan.*
-- *One paper was accepted by NeurIPS 2025 (oral), congratulations to Longfei.*
+- *One paper was accepted by CVPR, congratulations to Yinan.*
+- *One paper was accepted by NeurIPS (oral), congratulations to Longfei.*
 - *Welcome graduate students enrolling in 2026 to join our research group.*
-- *Three papers were accepted by IJCAI 2025, congratulations to Xixian, Zhouyang, and Zhihao.*
+- *Three papers were accepted by IJCAI, congratulations to Xixian, Zhouyang, and Zhihao.*
 - *One paper was accepted by TPAMI, congratulations to Hongpeng.*
-- *One paper was accepted by NeurIPS 2024, congratulations to Fengqiang.*
-- *One paper was accepted by IJCAI 2024, congratulations to Xiangyu.*
+- *One paper was accepted by NeurIPS, congratulations to Fengqiang.*
+- *One paper was accepted by IJCAI, congratulations to Xiangyu.*
 - *I joined Nanjing University of Science and Technology.*
