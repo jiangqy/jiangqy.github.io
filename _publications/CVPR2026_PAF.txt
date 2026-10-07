@@ -1,0 +1,9 @@
+@inproceedings{PAF:conf/cvpr/HanJ26,
+  author       = {Yinan Han and
+                  Qingyuan Jiang},
+  title        = {{PAF:} Perturbation-Aware Filtering for Open-Set Semi-Supervised Learning},
+  booktitle    = {CVPR},
+  pages        = {24803--24812},
+  publisher    = {Computer Vision Foundation},
+  year         = {2026},
+}
