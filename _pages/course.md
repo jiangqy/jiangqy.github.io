@@ -5,6 +5,36 @@ sitemap: false
 permalink: /course/
 ---
 
+
+
+### 研究生课程
+<!-- <div class="well-sm publication-entry">
+<ul class="flex-container">
+<li class="flex-item1">
+    <img src="{{ site.url }}{{ site.baseurl }}/course/02.Next-Generation_Artificial_Intelligence_and_Applications/intro_to_AI.png" class="img-responsive"/>
+</li>
+<li class="flex-item2">
+  <a href="02.Next-Generation_Artificial_Intelligence_and_Applications" target="_blank"><strong>新一代人工智能与应用</strong></a>
+  <br/>2026年秋季学期，第14~19周
+  <br/>
+</li>
+</ul>
+</div> -->
+
+<div class="well-sm publication-entry">
+<ul class="flex-container">
+<li class="flex-item1">
+    <img src="{{ site.url }}{{ site.baseurl }}/course/03.Advanced_Machine_Learning/Advanced_ML.png" class="img-responsive"/>
+</li>
+<li class="flex-item2">
+  <a href="03.Advanced_Machine_Learning" target="_blank"><strong>Advanced Machine Learning</strong></a>
+  <br/>Fall, 2026.
+  <br/>
+</li>
+</ul>
+</div>
+
+
 <!-- ### Introduction to Artificial Intelligence. Fall, 2026
 
 <div class="rowl1" style="padding: 12px;">
@@ -37,31 +67,3 @@ permalink: /course/
 </li>
 </ul>
 </div> -->
-
-
-### 研究生课程
-<!-- <div class="well-sm publication-entry">
-<ul class="flex-container">
-<li class="flex-item1">
-    <img src="{{ site.url }}{{ site.baseurl }}/course/02.Next-Generation_Artificial_Intelligence_and_Applications/intro_to_AI.png" class="img-responsive"/>
-</li>
-<li class="flex-item2">
-  <a href="02.Next-Generation_Artificial_Intelligence_and_Applications" target="_blank"><strong>新一代人工智能与应用</strong></a>
-  <br/>2026年秋季学期，第14~19周
-  <br/>
-</li>
-</ul>
-</div> -->
-
-<div class="well-sm publication-entry">
-<ul class="flex-container">
-<li class="flex-item1">
-    <img src="{{ site.url }}{{ site.baseurl }}/course/03.Advanced_Machine_Learning/Advanced_ML.png" class="img-responsive"/>
-</li>
-<li class="flex-item2">
-  <a href="03.Advanced_Machine_Learning" target="_blank"><strong>Advanced Machine Learning</strong></a>
-  <br/>Fall, 2026.
-  <br/>
-</li>
-</ul>
-</div>
