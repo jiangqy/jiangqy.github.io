@@ -54,7 +54,7 @@ permalink: /course/
   </ul>
 </div> -->
 
-### 本科生课程
+<!-- ### 本科生课程
 <div class="well-sm publication-entry">
 <ul class="flex-container">
 <li class="flex-item1">
@@ -66,4 +66,4 @@ permalink: /course/
   <br/>
 </li>
 </ul>
-</div>
+</div> -->
